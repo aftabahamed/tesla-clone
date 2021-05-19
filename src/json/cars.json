@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Modal S",
+    "description": "Order online for touchless delivery",
+    "backgroundImg": "model-s.jpg",
+    "leftBtnText": "Custom Order",
+    "rightBtnText": "Existing Inventory"
+  },
+  {
+    "title": "Modal Y",
+    "description": "Order online for touchless delivery",
+    "backgroundImg": "model-y.jpg",
+    "leftBtnText": "Custom Order",
+    "rightBtnText": "Existing Inventory"
+  },
+  {
+    "title": "Modal 3",
+    "description": "Order online for touchless delivery",
+    "backgroundImg": "model-3.jpg",
+    "leftBtnText": "Custom Order",
+    "rightBtnText": "Existing Inventory"
+  },
+  {
+    "title": "Modal X",
+    "description": "Order online for touchless delivery",
+    "backgroundImg": "model-x.jpg",
+    "leftBtnText": "Custom Order",
+    "rightBtnText": "Existing Inventory"
+  },
+  {
+    "title": "Lowest Cost Solar Panels in America",
+    "description": "Money-back guarantee",
+    "backgroundImg": "solar-panel.jpg",
+    "leftBtnText": "Order Now",
+    "rightBtnText": "Learn More"
+  },
+  {
+    "title": "Solar for New Roofs",
+    "description": "Solar Roof Costs Less Than a New Roof Plus Solar Planets",
+    "backgroundImg": "solar-roof.jpg",
+    "leftBtnText": "Order Now",
+    "rightBtnText": "Learn More"
+  },
+  {
+    "title": "Accessories",
+    "description": "",
+    "backgroundImg": "accessories.jpg",
+    "leftBtnText": "Shop Now",
+    "rightBtnText": ""
+  }
+]
